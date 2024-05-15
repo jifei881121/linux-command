@@ -9,7 +9,11 @@ iperf
 
 iperf分为两种版本，Unix/Linux版和Windows版，Unix/Linux版更新比较快，版本最新。Windows版更新慢。Windows版的iperf叫jperf，或者xjperf。jperf是在iperf基础上开发了更好的UI和新的功能。
 
-Linux版本下载地址：http://code.google.com/p/iperf/downloads/list
+iperf下载地址：https://iperf.fr/iperf-download.php
+
+Windows版本下载地址：https://github.com/ar51an/iperf3-win-builds
+
+Linux版本下载地址：https://github.com/esnet/iperf
 
 ### 安装iperf
 
